@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#122d3c"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#65d9cb" stroke-opacity=".07"/></pattern></defs><rect width="1280" height="360" rx="20" fill="url(#bg)"/><rect width="1280" height="360" rx="20" fill="url(#grid)"/><path d="M0 359H1280" stroke="#5eead4" stroke-width="3"/><g font-family="Arial, Helvetica, sans-serif"><rect x="64" y="55" width="245" height="30" rx="15" fill="#173a42"/><circle cx="82" cy="70" r="4" fill="#5eead4"/><text x="96" y="75" fill="#a7f3e5" font-size="12" letter-spacing="2">BUILD / LEARN / ITERATE</text><text x="60" y="163" fill="#f0f6fc" font-size="68" font-weight="700" letter-spacing="-2">Vatsal Mittal</text><text x="64" y="208" fill="#9de9dc" font-size="24">Full-stack development &amp; applied AI</text><text x="64" y="264" fill="#b5c6d6" font-size="18">From useful ideas to working software.</text><text x="64" y="316" fill="#7892a6" font-size="13" letter-spacing="2">TYPESCRIPT / PYTHON / REACT / NEXT.JS</text></g><g transform="translate(925 70)" fill="none" stroke="#5eead4" stroke-width="2"><rect width="240" height="220" rx="20" fill="#0b1826" stroke="#2c5964"/><circle cx="24" cy="23" r="3" fill="#5eead4"/><circle cx="39" cy="23" r="3" fill="#7393a6"/><circle cx="54" cy="23" r="3" fill="#7393a6"/><path d="M0 44H240" stroke="#2c5964"/><path d="M85 90L55 122L85 154M155 90L185 122L155 154M134 79L108 166" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M66 191H174" stroke="#2c5964"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-label="Vatsal Mittal. Full-stack development and applied AI.">
+<rect width="1280" height="240" fill="#111820" rx="12"/>
+<path d="M48 36H1232" stroke="#34404d"/>
+<path d="M48 36H168" stroke="#d9ad7c" stroke-width="3"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="68" fill="#b6bdc6" font-size="12" letter-spacing="3">DEVELOPER PORTFOLIO</text>
+<text x="44" y="147" fill="#f3f0eb" font-size="69" font-weight="700" letter-spacing="-2">Vatsal Mittal</text>
+<text x="48" y="191" fill="#c6ced7" font-size="22">Full-stack development <tspan fill="#d9ad7c"> / </tspan> Applied AI</text>
+<path d="M925 77V191" stroke="#34404d"/>
+<g fill="#d9ad7c" font-size="12" letter-spacing="2">
+<text x="960" y="105">WEB APPLICATIONS</text>
+<text x="960" y="143">BACKEND SYSTEMS</text>
+<text x="960" y="181">AI WORKFLOWS</text>
+</g>
+</g>
+</svg>
